@@ -238,3 +238,6 @@ This repository serves as the official landing page for Universal Viewer. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Universal Viewer today!**
+
+---
+**Last updated:** 2026-09-09 14:05:28 UTC
